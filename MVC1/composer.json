@@ -1,0 +1,19 @@
+{
+    "name": "admin/mvc1",
+    "description": "PHP-MVC-",
+    "authors": [
+        {
+            "name": "Minh Haui 98",
+            "email": "minhproz1998@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "monolog/monolog": "^2.0@beta"
+    },
+    "autoload": {
+        "psr-4": {
+            "Main\\":""
+        }
+    }
+}
